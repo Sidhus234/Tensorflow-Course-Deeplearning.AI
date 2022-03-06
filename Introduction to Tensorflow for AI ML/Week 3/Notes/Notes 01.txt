@@ -1,0 +1,7 @@
+Convolution: The idea here is that some convolutions will change the image in such a way that certain features in the image get emphasized.
+Pooling: Pooling is a way of compressing an image
+
+Conv2D: https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+MaxPool2D: https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
+Convolution Layers: https://bit.ly/2UGa7uH (https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
