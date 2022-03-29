@@ -2,12 +2,11 @@
  
  This projject contains solved assignments and labs for the Coursera course provided by DeepLearning.AI (DeepLearning.AI TensorFlow Developer Professional Certificate). Please donot use the materials to clear your course. This should be referred only when you have been struggling for a long time to solve the project and are unsuccessful.
  
- [Link]("https://github.com/Sidhus234/Tensorflow-Course-Deeplearning.AI/tree/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/ungraded_lab/") 
  
 <h2>Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning </h2>
 <ol>
  <li><b>Week 1: A New Programming Paradigm</b>: soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios.<ul>
-  <li><b>Labs (Solved)</b>:</li>
+  <li><b>Labs (Solved)</b>:<a href="https://github.com/Sidhus234/Tensorflow-Course-Deeplearning.AI/tree/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/ungraded_lab/">Link</a></li>
   <li><b>Asignment (Solved)</b>:</li>
   </ul> </li>
  <li><b>Week 2: Introduction to Computer Vision</b>: solve problems of computer vision with just a few lines of code.<ul>
