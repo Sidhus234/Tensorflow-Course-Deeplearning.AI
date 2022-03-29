@@ -2,7 +2,7 @@
  
  This projject contains solved assignments and labs for the Coursera course provided by DeepLearning.AI (DeepLearning.AI TensorFlow Developer Professional Certificate). Please donot use the materials to clear your course. This should be referred only when you have been struggling for a long time to solve the project and are unsuccessful.
  
- [Link](./Introduction to Tensorflow for AI ML/Week 1/ungraded_lab/C1_W1_Lab_1_hello_world_nn.ipynb) 
+ [Link]("https://github.com/Sidhus234/Tensorflow-Course-Deeplearning.AI/tree/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/ungraded_lab/") 
  
 <h2>Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning </h2>
 <ol>
